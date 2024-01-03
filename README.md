@@ -11,10 +11,7 @@ Select a date range based on your specific needs.
 
 ## Screenshots
 
-![1](https://github.com/IPH-Technologies-Pvt-Ltd/CalanderRangeSelector/assets/93508412/15931a4e-319d-4268-9833-c9dc4ea04005)
-
-![2](https://github.com/IPH-Technologies-Pvt-Ltd/CalanderRangeSelector/assets/93508412/c5546809-e88f-4a4d-b902-ae2a7c855b7d)
-
+![ezgif com-video-to-gif-converter](https://github.com/IPH-Technologies-Pvt-Ltd/CalanderRangeSelector/assets/93508412/3e3e49a9-3df2-47aa-a4ba-a9eba3506894)
 
 ## Installation
 Clone the repository: https://github.com/IPH-Technologies-Pvt-Ltd/CalanderRangeSelector.git
